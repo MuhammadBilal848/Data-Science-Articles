@@ -1,0 +1,13 @@
+https://www.scribbr.com/research-bias/omitted-variable-bias/#:~:text=An%20omitted%20variable%20is%20a%20source%20of%20endogeneity.,correlated%20with%20an%20independent%20variable.
+https://towardsdatascience.com/causal-inference-with-linear-regression-endogeneity-9d9492663bac
+https://en.wikipedia.org/wiki/Omitted-variable_bias
+https://stats.stackexchange.com/questions/263324/how-can-the-regression-error-term-ever-be-correlated-with-the-explanatory-variab
+
+PS:
+A Linear Regression model’s main aim is to find the best fit linear line and the optimal values of intercept and coefficients such that the error is minimized.
+Error is the difference between the actual value and Predicted value and the goal is to reduce this difference.
+Q.
+How do we know which line is best fit line?
+A.
+For starters you can try dropping multiple lines on a graph and calculating distance of each line with different data points called margin of error (ε).
+In the end a line having the minimum margin of error will be chosen as a best fit line.
