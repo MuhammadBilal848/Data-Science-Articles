@@ -2,6 +2,8 @@ https://www.scribbr.com/research-bias/omitted-variable-bias/#:~:text=An%20omitte
 https://towardsdatascience.com/causal-inference-with-linear-regression-endogeneity-9d9492663bac
 https://en.wikipedia.org/wiki/Omitted-variable_bias
 https://stats.stackexchange.com/questions/263324/how-can-the-regression-error-term-ever-be-correlated-with-the-explanatory-variab
+https://www.analyzemath.com/calculus/multivariable/linear-least-squares-fitting.html
+https://www.analyzemath.com/statistics/linear_regression.html
 
 PS:
 A Linear Regression model’s main aim is to find the best fit linear line and the optimal values of intercept and coefficients such that the error is minimized.
